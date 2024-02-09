@@ -67,7 +67,7 @@ function Login() {
                   <input type="password" className="form-control form-control-lg" id="exampleInputPassword1" placeholder="Password" value={mdp} onChange={(e) => setMdp(e.target.value)}/>
                 </div>
                 <div className="mt-3">
-                  <button type="submit"><a className="btn btn-block btn-primary btn-lg font-weight-medium auth-form-btn">SIGN IN</a></button>
+                  <button type="submit">SIGN IN</button>
                 </div>
                 <div className="my-2 d-flex justify-content-between align-items-center">
                   <div className="form-check">

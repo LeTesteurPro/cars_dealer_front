@@ -13,7 +13,6 @@ function Carousel() {
                             <div className="container">
                                 <div className="row align-items-center justify-content-center justify-content-lg-start">
                                     <div className="col-10 col-lg-7 text-center text-lg-start">
-                                        <h6 className="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
                                         <h1 className="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Repair Service Center</h1>
                                     </div>
                                     <div className="col-lg-5 d-none d-lg-flex animated zoomIn">
@@ -29,7 +28,6 @@ function Carousel() {
                             <div className="container">
                                 <div className="row align-items-center justify-content-center justify-content-lg-start">
                                     <div className="col-10 col-lg-7 text-center text-lg-start">
-                                        <h6 className="text-white text-uppercase mb-3 animated slideInDown">// Car Servicing //</h6>
                                         <h1 className="display-3 text-white mb-4 pb-3 animated slideInDown">Qualified Car Wash Service Center</h1>
                                     </div>
                                     <div className="col-lg-5 d-none d-lg-flex animated zoomIn">

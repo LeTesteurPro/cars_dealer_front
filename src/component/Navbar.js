@@ -16,7 +16,6 @@ function Navbar() {
                     <Link to="/service" className="nav-item nav-link">Annonces</Link>
                     <Link to="/about" className="nav-item nav-link">About</Link>
                     <div className="nav-item dropdown">
-                        <a href="#" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div className="dropdown-menu fade-up m-0">
                             <Link to="/booking" className="dropdown-item">Booking</Link>
                             <Link to="/team" className="dropdown-item">Technicians</Link>
