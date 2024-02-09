@@ -11,7 +11,6 @@ function Services() {
                         <div className="ps-4">
                             <h5 className="mb-3">Quality Servicing</h5>
                             <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a className="text-secondary border-bottom" href="">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -21,7 +20,6 @@ function Services() {
                         <div className="ps-4">
                             <h5 className="mb-3">Expert Workers</h5>
                             <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a className="text-secondary border-bottom" href="">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -31,7 +29,6 @@ function Services() {
                         <div className="ps-4">
                             <h5 className="mb-3">Modern Equipment</h5>
                             <p>Diam dolor diam ipsum sit amet diam et eos erat ipsum</p>
-                            <a className="text-secondary border-bottom" href="">Read More</a>
                         </div>
                     </div>
                 </div>

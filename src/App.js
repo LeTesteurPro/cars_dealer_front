@@ -6,7 +6,6 @@ import Index2 from './pages/Index2';
 import About from './pages/About';
 import Service from './pages/Service';
 import Booking from './pages/Booking';
-import Contact from './pages/Contact';
 import Team from './pages/Team';
 import Testimonial from './pages/Testimonial';
 import C404 from './pages/C404';

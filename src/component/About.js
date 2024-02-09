@@ -7,7 +7,6 @@ function About() {
                 <div className="row g-5">
                     <div className="col-lg-6 pt-4 about-image" style={{ minHeight: "400px" }}>
                         <div className="position-relative h-100 wow fadeIn" data-wow-delay="0.1s">
-                        <img className="position-absolute img-fluid w-100 h-100" src="../img/about.jpg" style={{ objectFit: "cover" }} alt="" />
                             <div className="position-absolute top-0 end-0 mt-n4 me-n4 py-4 px-5" style={{ background: "rgba(0, 0, 0, .08)" }}>
                                 <h1 className="display-4 text-white mb-0">15 <span className="fs-4">Years</span></h1>
                                 <h4 className="text-white">Experience</h4>
@@ -53,7 +52,6 @@ function About() {
                                 </div>
                             </div>
                         </div>
-                        <a href="" className="btn btn-primary py-3 px-5">Read More<i className="fa fa-arrow-right ms-3"></i></a>
                     </div>
                 </div>
             </div>

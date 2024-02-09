@@ -76,10 +76,10 @@ function Login() {
                       Keep me signed in
                     </label>
                   </div>
-                  <a href="#" className="auth-link text-black">Forgot password?</a>
+                  
                 </div>
                 <div className="text-center mt-4 font-weight-light">
-                  Don't have an account? <a href="register.html" className="text-primary">Create</a>
+                  Don't have an account?
                 </div>
               </form>
             </div>

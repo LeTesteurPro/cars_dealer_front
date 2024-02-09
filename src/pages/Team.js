@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../component/Navbar';
 import Footer from '../component/Footer';
 
-function About() {
+function Team() {
   return (
     <div>
       <Navbar />
@@ -12,4 +12,4 @@ function About() {
   );
 }
 
-export default About;
+export default Team;

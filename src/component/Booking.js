@@ -14,10 +14,7 @@ function Booking() {
                             <div className="position-relative overflow-hidden">
                                 <img className="img-fluid" src="img/team-1.jpg" alt=""/>
                                 <div className="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-instagram"></i></a>
-                                </div>
+                                    </div>
                             </div>
                             <div className="bg-light text-center p-4">
                                 <h5 className="fw-bold mb-0">Full Name</h5>
@@ -28,11 +25,7 @@ function Booking() {
                     <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div className="team-item">
                             <div className="position-relative overflow-hidden">
-                                <img className="img-fluid" src="img/team-2.jpg" alt=""/>
                                 <div className="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div className="bg-light text-center p-4">
@@ -44,11 +37,7 @@ function Booking() {
                     <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div className="team-item">
                             <div className="position-relative overflow-hidden">
-                                <img className="img-fluid" src="img/team-3.jpg" alt=""/>
                                 <div className="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div className="bg-light text-center p-4">
@@ -60,11 +49,7 @@ function Booking() {
                     <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                         <div className="team-item">
                             <div className="position-relative overflow-hidden">
-                                <img className="img-fluid" src="img/team-4.jpg" alt=""/>
                                 <div className="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-facebook-f"></i></a>
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-twitter"></i></a>
-                                    <a className="btn btn-square mx-1" href=""><i className="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div className="bg-light text-center p-4">

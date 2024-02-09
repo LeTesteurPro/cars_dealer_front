@@ -12,11 +12,7 @@ function Footer() {
                         <p className="mb-2"><i className="fa fa-phone-alt me-3"></i>+012 345 67890</p>
                         <p className="mb-2"><i className="fa fa-envelope me-3"></i>info@example.com</p>
                         <div className="d-flex pt-2">
-                            <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-twitter"></i></a>
-                            <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-facebook-f"></i></a>
-                            <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-youtube"></i></a>
-                            <a className="btn btn-outline-light btn-social" href=""><i className="fab fa-linkedin-in"></i></a>
-                        </div>
+                            </div>
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <h4 className="text-light mb-4">Opening Hours</h4>
@@ -27,11 +23,7 @@ function Footer() {
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <h4 className="text-light mb-4">Services</h4>
-                        <a className="btn btn-link" href="">Diagnostic Test</a>
-                        <a className="btn btn-link" href="">Engine Servicing</a>
-                        <a className="btn btn-link" href="">Tires Replacement</a>
-                        <a className="btn btn-link" href="">Oil Changing</a>
-                        <a className="btn btn-link" href="">Vacuam Cleaning</a>
+                     
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <h4 className="text-light mb-4">Newsletter</h4>
@@ -47,16 +39,9 @@ function Footer() {
                 <div className="copyright">
                     <div className="row">
                         <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <a className="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
-    
-                            Designed By <a className="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
                         </div>
                         <div className="col-md-6 text-center text-md-end">
                             <div className="footer-menu">
-                                <a href="">Home</a>
-                                <a href="">Cookies</a>
-                                <a href="">Help</a>
-                                <a href="">FQAs</a>
                             </div>
                         </div>
                     </div>

@@ -35,7 +35,6 @@ function ServiceItem() {
                             <div className="row g-4">
                                 <div className="col-md-6" style={{ objectFit: "cover" }} >
                                     <div className="position-relative h-100">
-                                        <img className="position-absolute img-fluid w-100 h-100" src="../img/service-1.jpg" alt="" style={{ objectFit: "cover" }} />
                                         
                                     </div>
                                 </div>
@@ -53,7 +52,6 @@ function ServiceItem() {
                             <div className="row g-4">
                                 <div className="col-md-6" style={{ objectFit: "cover" }} >
                                     <div className="position-relative h-100">
-                                        <img className="position-absolute img-fluid w-100 h-100" src="../img/service-2.jpg"  alt="" style={{ objectFit: "cover" }} />
                                     </div>
                                 </div>
                                 <div className="col-md-6">
@@ -70,7 +68,6 @@ function ServiceItem() {
                             <div className="row g-4">
                                 <div className="col-md-6" style={{ objectFit: "cover" }} >
                                     <div className="position-relative h-100">
-                                        <img className="position-absolute img-fluid w-100 h-100" src="../img/service-3.jpg" alt="" style={{ objectFit: "cover" }} />
                                     </div>
                                 </div>
                                 <div className="col-md-6">
@@ -87,7 +84,6 @@ function ServiceItem() {
                             <div className="row g-4">
                                 <div className="col-md-6" style={{ objectFit: "cover" }} >
                                     <div className="position-relative h-100">
-                                        <img className="position-absolute img-fluid w-100 h-100" src="../img/service-4.jpg" alt="" style={{ objectFit: "cover" }} />
                                     </div>
                                 </div>
                                 <div className="col-md-6">
