@@ -40,7 +40,7 @@ function Team() {
                         <div key={voiture.id} className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                             <div className="team-item">
                             <div className="carousel-bg">
-                              {imageUrls[index] && <img src={imageUrls[index].url} style={{ width:"300px", height:"200px" }} />}
+                              {imageUrls[index] && <img src={imageUrls[index].url} alt={`Annonces`} style={{ width:"300px", height:"200px" }} />}
                             </div>
                                 <div className="bg-light text-center p-4">
                                     <h5 className="fw-bold mb-0">{voiture.modele.marque.nom} {voiture.modele.nom}</h5>
