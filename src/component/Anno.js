@@ -6,7 +6,7 @@ function Anno() {
   const [voitures, setVoitures] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:8080/listVoiture')
+    axios.get('https://carsdealerwebservice-production.up.railway.app/listVoiture')
       .then(response => {
         setVoitures(response.data);
       })
@@ -18,7 +18,7 @@ function Anno() {
   const [imageUrls, setImages] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:8080/image/listImgUrl')
+    axios.get('https://carsdealerwebservice-production.up.railway.app/image/listImgUrl')
       .then(response => {
         setImages(response.data);
       })
