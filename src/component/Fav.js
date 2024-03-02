@@ -6,7 +6,7 @@ function Fav() {
   const [voitures, setFavoris] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:8080/listFavoris')
+    axios.get('https://carsdealerwebservice-production-1aa2.up.railway.app/listFavoris')
       .then(response => {
         setFavoris(response.data);
       })
